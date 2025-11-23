@@ -1,0 +1,25 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Project files
+*.csproj
+*.vcxproj
+*.vcxproj.filters
+
+# Executables
+*.exe
+*.dll
+*.pdb
