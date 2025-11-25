@@ -1,0 +1,15 @@
+C:\Users\dmitr\VS_CODE\csharp-lab\obj\Debug\net9.0\csharp-lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\VS_CODE\csharp-lab\obj\Debug\net9.0\csharp-lab.AssemblyInfoInputs.cache
+C:\Users\dmitr\VS_CODE\csharp-lab\obj\Debug\net9.0\csharp-lab.AssemblyInfo.cs
+C:\Users\dmitr\VS_CODE\csharp-lab\obj\Debug\net9.0\csharp-lab.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\VS_CODE\csharp-lab\obj\Debug\net9.0\csharp-lab.sourcelink.json
+C:\Users\dmitr\VS_CODE\csharp-lab\bin\Debug\net9.0\csharp-lab.exe
+C:\Users\dmitr\VS_CODE\csharp-lab\bin\Debug\net9.0\csharp-lab.deps.json
+C:\Users\dmitr\VS_CODE\csharp-lab\bin\Debug\net9.0\csharp-lab.runtimeconfig.json
+C:\Users\dmitr\VS_CODE\csharp-lab\bin\Debug\net9.0\csharp-lab.dll
+C:\Users\dmitr\VS_CODE\csharp-lab\bin\Debug\net9.0\csharp-lab.pdb
+C:\Users\dmitr\VS_CODE\csharp-lab\obj\Debug\net9.0\csharp-lab.dll
+C:\Users\dmitr\VS_CODE\csharp-lab\obj\Debug\net9.0\refint\csharp-lab.dll
+C:\Users\dmitr\VS_CODE\csharp-lab\obj\Debug\net9.0\csharp-lab.pdb
+C:\Users\dmitr\VS_CODE\csharp-lab\obj\Debug\net9.0\csharp-lab.genruntimeconfig.cache
+C:\Users\dmitr\VS_CODE\csharp-lab\obj\Debug\net9.0\ref\csharp-lab.dll

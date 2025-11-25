@@ -1,6 +1,6 @@
 ﻿public class Program
 {
-    public void Main()
+    static void Main()
     {
         Cocpit cocpit = new Cocpit();
 

@@ -1,5 +1,0 @@
-C:\Users\dmitr\VS_CODE\csharp-lab\obj\Debug\net9.0\csharp-lab.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\dmitr\VS_CODE\csharp-lab\obj\Debug\net9.0\csharp-lab.AssemblyInfoInputs.cache
-C:\Users\dmitr\VS_CODE\csharp-lab\obj\Debug\net9.0\csharp-lab.AssemblyInfo.cs
-C:\Users\dmitr\VS_CODE\csharp-lab\obj\Debug\net9.0\csharp-lab.csproj.CoreCompileInputs.cache
-C:\Users\dmitr\VS_CODE\csharp-lab\obj\Debug\net9.0\csharp-lab.sourcelink.json
