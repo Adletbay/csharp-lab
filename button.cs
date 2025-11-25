@@ -1,9 +1,5 @@
 public class Button
 {
-    
-GOIDAa
-
+    public string name {get; set;}
+    public string type {get; set;}
 }
-
-
-
