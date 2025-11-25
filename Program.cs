@@ -3,5 +3,7 @@
     public void Main()
     {
         Cocpit cocpit = new Cocpit();
+
+        cocpit.Print();
     }
 }
